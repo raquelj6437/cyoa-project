@@ -1,5 +1,5 @@
 ## Where would you like to go?  
-[Asia](packyourbags.md)  
-[Australia](packyourbags.md)  
-[Europe](packyourbags.md)  
-[United Kingdom](packyourbags.md)  
+[Asia](decisions/packyourbags.md)  
+[Australia](decisions/packyourbags.md)  
+[Europe](decisions/packyourbags.md)  
+[United Kingdom](decisions/packyourbags.md)  
